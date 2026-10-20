@@ -1,4 +1,4 @@
-# kBxAc CTF 2026 — Team `ruy` Writeup
+# kBxAc CTF 2026 — Team `ruy` Writeup Solved by ftps3rver
 
 **Team:** ruy
 **Final standing:** 6th place · **18,451 pts** · 31/38 solved
@@ -326,7 +326,7 @@ The payload is hidden in the pixels/zero-width layer of the provided artifact; e
 
 ---
 
-*End of writeup — team `ruy`, 12 self-solved flags, kBxAc CTF 2026.*
+*End of writeup - solved by ftps3rver team `ruy`, 12 self-solved flags, kBxAc CTF 2026.*
 
 
 
